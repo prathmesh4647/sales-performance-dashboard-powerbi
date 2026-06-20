@@ -17,6 +17,9 @@ This Power BI dashboard analyzes sales performance across products, customer seg
 - Power Query
 - Data Modeling
 
+## Assets
+The dashboard uses a custom background image to enhance visual appearance and user experience.
+
 ## Dashboard Preview
 
 ![Dashboard](Dashboard Screenshot.png)
