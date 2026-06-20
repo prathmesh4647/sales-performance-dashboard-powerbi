@@ -64,7 +64,7 @@ Evaluate profit generated across:
 
 ## Dashboard Preview
 
-![Dashboard](Sales Performance Analytics Dashboard.png)
+![Dashboard](Dashboard_Screenshot.png)
 
 ## Project Files
 
